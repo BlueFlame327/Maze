@@ -1,8 +1,9 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color: #ec1313;
 }
 
 canvas {
-  background-color: lightgray;
+  background-color: #ec1313;
 }
